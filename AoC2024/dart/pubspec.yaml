@@ -1,0 +1,6 @@
+name: AoC2024 dart 
+description: Advent of Code 2024 in Dart
+version: 1.0.0
+
+dependencies:
+  dart.io: ^2.1.0 
